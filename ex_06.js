@@ -1,4 +1,3 @@
-let bananasCount = 5;
 if (bananasCount === 0) {
     console.log("Oh no, there is no banana.");
 } else if (bananasCount > 0) {
